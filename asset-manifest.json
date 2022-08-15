@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Furniture-Home-e-commerce/static/css/main.2d5a721b.css",
+    "main.js": "/Furniture-Home-e-commerce/static/js/main.ad8230fd.js",
+    "static/media/furniture-hero.jpg": "/Furniture-Home-e-commerce/static/media/furniture-hero.54a107081b93e5726bd6.jpg",
+    "index.html": "/Furniture-Home-e-commerce/index.html",
+    "main.2d5a721b.css.map": "/Furniture-Home-e-commerce/static/css/main.2d5a721b.css.map",
+    "main.ad8230fd.js.map": "/Furniture-Home-e-commerce/static/js/main.ad8230fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5a721b.css",
+    "static/js/main.ad8230fd.js"
+  ]
+}
